@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name = "titleTextView">Soccer Team Manager</string>
+    <string name = "teamNameTextField">Team Name</string>
+    <string name = "teamAddressField"> Open Google Maps</string>
+    <string name = "teamAddressTextField">Team Address</string>
+    <string name = "button">Open Google Maps</string>
+    <string name = "newAvatarTextView">Select a new Avatar</string>
+    <string name = "button2">LOAD FROM HOME</string>
+
+</resources>
